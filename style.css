@@ -308,7 +308,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url("/Users/komal/Downloads/portfolio phone background (1).png");
+        background-image: url("portfolio phone background (1).png");
     }
     .header-text{
         margin-top: 100%;
